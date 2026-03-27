@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-<a href="https://arxiv.org/abs/xxxx.xxxxx"><img alt="Paper" src="https://img.shields.io/badge/Paper-AdaEdit-b31b1b.svg"></a>
+<a href="https://arxiv.org/abs/2603.21615"><img alt="Paper" src="https://img.shields.io/badge/Paper-AdaEdit-b31b1b.svg"></a>
 <a href="https://github.com/leeguandong/AdaEdit"><img src="https://img.shields.io/static/v1?label=GitHub&message=repository&color=green"></a>
 </p>
 
